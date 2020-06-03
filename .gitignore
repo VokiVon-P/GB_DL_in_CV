@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 logs
+data
 *.h5
 *.jpg
 *.png
