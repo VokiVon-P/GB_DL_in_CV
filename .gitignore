@@ -5,3 +5,10 @@ data
 *.jpg
 *.png
 hw_04/aspp*
+hw_05/object_detection/
+hw_05/mdl/
+hw_05/ch_points/
+hw_05/annotations
+*.weights
+hw_05/Obj_Det_TF2/
+hw_05/yolov3.cfg
