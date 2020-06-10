@@ -6,3 +6,5 @@ data
 *.png
 hw_04/aspp*
 hw_05/Obj_Det_TF2/
+*.weights
+hw_05/yolov3.cfg
